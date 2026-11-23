@@ -18,3 +18,14 @@
 - Entrypoint: main.ts written with a file-write tool in the build session, then genuinely revised with a second edit (voice comment) so the transcript gate's thinking_revised counts 2 writes.
 - Repo: https://github.com/rwnliwan/u-ronigrv-the-one-line-laugh-7ccca46f (public), .makefun/owner.json wallet FwUebjzYUBF6uybmEkUkiQf9z35bGGQuUE3GrToXFcUq, README with 3 make.fun badges, About website + topic makefun.
 - Submit/check: NOT run by this builder — coordinator does makefun check/submit.
+
+## Submit record (coordinator chief-finish)
+- Note: builder handoff never arrived; entry reconstructed + verified from disk by coordinator (trial log, repo, preflight re-run, usage row from muse.db).
+- Submitted first try: receipt 2026-11-23T22:56:55.044Z, submission `01a20aa0-6b0f-727b-aa4f-3b6c965b0f6f`
+- Commit submitted: `8da2394e942286af922bcb94e7c35fbe47055278`
+- Bundle: `u-ronigrv-the-one-line-laugh-7ccca46f-bundle.tar.gz`, sha256 `9923443b232bcdf6bcd6074b28b854fc00d3c9da5093792cde7d60a1963267ab`
+- Re-check: 14 passed, 0 failed, 5 skipped (thinking_priced PASS with 2 usage records, thinking_reproduces 69.2%)
+- Preflight re-verified by coordinator: 2 runs byte-identical, sha256 `b6c5852723bff9d6d4940b3e64de97460c7d9078d161449b74208cd8965653dc`, 89 bytes
+- Repo About verified correct before submit (homepage = bounty URL, topics include makefun)
+- Stage after submit: checked (passed checks); blind round 1 cutoff 2026-11-23T23:50:12.666Z (24 Nov 07:50 WITA)
+- Claim code: see `~/workspace/make-fun/drive-backup/claim-codes-one-line-laugh.txt` (NOT in this repo)
